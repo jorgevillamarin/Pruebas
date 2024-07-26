@@ -1,0 +1,26 @@
+Blackjack en TypeScript
+
+Juego de Blackjack implementado en TypeScript. El juego permite al jugador jugar varias manos contra un crupier y decidir si quiere pedir más cartas o plantarse. El objetivo es obtener una puntuación lo más cercana posible a 21 sin pasarse.
+
+Instalación
+Clonar el repositorio:
+    git clone https://github.com/jorgevillamarin/Juego.git
+    cd  https://github.com/jorgevillamarin/Juego.git
+
+Instalar dependencias:
+
+Asegúrate de tener Node.js instalado. Luego, instala las dependencias necesarias ejecutando:
+
+    npm install
+
+Instalar TypeScript y prompt-sync:
+
+Si aún no tienes TypeScript o prompt-sync instalados globalmente, instálalos con:
+npm install -g typescript
+npm install prompt-sync
+
+Uso
+Para jugar al Blackjack, ejecuta el siguiente comando:
+
+1) tcs
+2) node dist/index.js
